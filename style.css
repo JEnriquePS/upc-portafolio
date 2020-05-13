@@ -2528,3 +2528,6 @@ select.mobile-device {
     background-position: center;
     background-size: cover;
 }
+.width-cl{
+    width: 100%;
+}
