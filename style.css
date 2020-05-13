@@ -2531,3 +2531,8 @@ select.mobile-device {
 .width-cl{
     width: 100%;
 }
+
+.h-c{
+    object-fit: cover;
+    height: 200px;
+}
